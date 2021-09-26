@@ -5,7 +5,7 @@
  *        http://www.boost.org/LICENSE_1_0.txt)
  */
 
-// dummygc creates an OpenGL 1.0 graphic context on Windows systems.
+// dummygc creates an OpenGL 1.0 context on Windows systems.
 package dummygc
 
 // #cgo LDFLAGS: -luser32 -lgdi32 -lOpenGL32

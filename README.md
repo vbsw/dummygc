@@ -3,7 +3,7 @@
 [![GoDoc](https://godoc.org/github.com/vbsw/dummygc?status.svg)](https://godoc.org/github.com/vbsw/dummygc) [![Stability: Experimental](https://masterminds.github.io/stability/experimental.svg)](https://masterminds.github.io/stability/experimental.html)
 
 ## About
-dummygc is a Go package to create an OpenGL 1.1 graphic context on Windows systems. It is published on <https://github.com/vbsw/dummygc>.
+dummygc is a Go package to create an OpenGL 1.1 context on Windows systems. It is published on <https://github.com/vbsw/dummygc>.
 
 ## Copyright
 Copyright 2021, Vitali Baumtrok (vbsw@mailbox.org).
